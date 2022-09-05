@@ -6,3 +6,7 @@ Class lecture
 **Python**
 
 _Python_
+
+# Day 1
+
+
